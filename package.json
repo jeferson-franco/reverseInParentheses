@@ -1,0 +1,20 @@
+{
+  "name": "reverseinparentheses",
+  "version": "1.0.0",
+  "description": "Write a function that reverses characters in (possibly nested) parentheses in the input string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/reverseInParentheses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/reverseInParentheses/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/reverseInParentheses#readme"
+}
